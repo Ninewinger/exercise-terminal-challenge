@@ -1,0 +1,3 @@
+/workspaces/exercise-terminal-challenge/thecmdchallenge/funcode/script.js
+/workspaces/exercise-terminal-challenge/thecmdchallenge/funcode/regexer.js
+/workspaces/exercise-terminal-challenge/thecmdchallenge/funcode/regexer.1.js
